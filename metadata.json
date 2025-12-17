@@ -1,0 +1,5 @@
+{
+  "name": "Infinite Adventure AI",
+  "description": "An infinite choose-your-own-adventure game powered by Gemini, featuring real-time image generation and dynamic inventory tracking.",
+  "requestFramePermissions": []
+}
